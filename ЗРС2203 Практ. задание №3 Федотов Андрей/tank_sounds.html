@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">  
+    <title>Звуки танков</title>
+    <link rel="icon" href="icon.png" type="image/png">
+    <link href="http://localhost/test/css/style_1.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost/test/css/style_2.css" rel="stylesheet" type="text/css">
+    <script src="javascript/scripts.js"></script>
+    <style>
+        .background_2{
+            background-image: url("images/phon1.jpg");
+        }
+        .sidenav {
+            height: 100%;
+            width: 160px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(43, 38, 38);
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+        .sidenav a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+        }
+        .main {
+            margin-left: 160px;
+            padding: 0px 10px;
+        }
+    </style>
+</head>
+ 
+<body>
+    <div class="main">
+    <header class="site_header">
+        <h1 class="name">Звуки танков</h1>
+        <nav class="site_nav">
+            <a href="soviet_tanks.html">Картинки танков</a>
+            <a href="video_t-34.html">Видео с Т-34</a>
+            <a href="index.html">Танки</a>
+        </nav>
+    </header>
+    <aside class="sidenav">
+        <div class="sidenav">
+            <a href="#r">Звук мотора танка</a>
+            <a href="#t">Звук танка в движении</a>
+            <a href="#y">Звук поворота башни</a>
+        </div>
+    </aside>
+    <section id="r">
+        <h2 class="background_2">Звук мотора танка</h2>
+        <audio src="music\Танк_ожидает.mp3" controls autoplay></audio>
+    </section>
+    <section id="t">
+        <h2 class="background_2">Звук танка в движении</h2>
+        <audio controls loop>
+            <source src="music\Танк_едет.mp3">
+        </audio>
+    </section>
+    <section id="y">
+        <h2 class="background_2">Звук поворота башни</h2>
+        <audio controls loop>
+            <source src="music\Поворот_башни.mp3">
+        </audio>
+    </section>
+    <footer class="site_footer">
+                <p>
+                    Дата публикации: <time datetime="2022-10-10 19:00">10 октября</time>
+                </p>
+                <address>
+                    Автор: Федотов Андрей Владимирович
+                </address>
+            </footer>
+        </article>
+    </main>
+    </div>
+</body>
+</html>

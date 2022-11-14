@@ -1,0 +1,158 @@
+
+Microsoft Windows [Version 10.0.19044.2130]
+
+Host Name:                 LAPTOP-6PN420NA
+OS Name:                   Майкрософт Windows 10 Домашняя для одного языка
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          asus
+Registered Organization:   N/A
+Product ID:                00327-31012-39180-AAOEM
+Original Install Date:     07.06.2021, 11:48:19
+System Boot Time:          23.10.2022, 12:09:31
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              VivoBook_ASUSLaptop X515UA_M515UA
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:              American Megatrends International, LLC. X515UA.306, 29.11.2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             ru;Russian
+Input Locale:              ru;Russian
+Time Zone:                 (UTC+03:00) Moscow, St. Petersburg
+Total Physical Memory:     7 564 MB
+Available Physical Memory: 3 663 MB
+Virtual Memory: Max Size:  10 380 MB
+Virtual Memory: Available: 4 462 MB
+Virtual Memory: In Use:    5 918 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-6PN420NA
+Hotfix(s):                 20 Hotfix(s) Installed.
+                           [01]: KB5017262
+                           [02]: KB4534170
+                           [03]: KB4537759
+                           [04]: KB4545706
+                           [05]: KB4562830
+                           [06]: KB4577266
+                           [07]: KB4577586
+                           [08]: KB5003791
+                           [09]: KB5012170
+                           [10]: KB5018410
+                           [11]: KB5006753
+                           [12]: KB5007273
+                           [13]: KB5011352
+                           [14]: KB5011651
+                           [15]: KB5014032
+                           [16]: KB5014035
+                           [17]: KB5014671
+                           [18]: KB5015895
+                           [19]: KB5016705
+                           [20]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Dual Band Wireless-AC 8265
+                                 Connection Name: Беспроводная сеть
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.43
+                                 [02]: fe80::258a:f22:4434:8145
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Сетевое подключение Bluetooth
+                                 Status:          Media disconnected
+                           [03]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (WSL)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.21.16.1
+                                 [02]: fe80::e57d:1b9e:b5d9:7ac5
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::1cc0:37dc:6acb:b86e
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+Microsoft Windows [Version 10.0.19044.2130]
+
+Host Name:                 LAPTOP-6PN420NA
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          asus
+Registered Organization:   N/A
+Product ID:                00327-31012-39180-AAOEM
+Original Install Date:     07.06.2021, 11:48:19
+System Boot Time:          23.10.2022, 12:09:31
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              VivoBook_ASUSLaptop X515UA_M515UA
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:              American Megatrends International, LLC. X515UA.306, 29.11.2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             ru;Russian
+Input Locale:              ru;Russian
+Time Zone:                 (UTC+03:00) Moscow, St. Petersburg
+Total Physical Memory:     7 564 MB
+Available Physical Memory: 3 148 MB
+Virtual Memory: Max Size:  10 380 MB
+Virtual Memory: Available: 3 599 MB
+Virtual Memory: In Use:    6 781 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-6PN420NA
+Hotfix(s):                 20 Hotfix(s) Installed.
+                           [01]: KB5017262
+                           [02]: KB4534170
+                           [03]: KB4537759
+                           [04]: KB4545706
+                           [05]: KB4562830
+                           [06]: KB4577266
+                           [07]: KB4577586
+                           [08]: KB5003791
+                           [09]: KB5012170
+                           [10]: KB5018410
+                           [11]: KB5006753
+                           [12]: KB5007273
+                           [13]: KB5011352
+                           [14]: KB5011651
+                           [15]: KB5014032
+                           [16]: KB5014035
+                           [17]: KB5014671
+                           [18]: KB5015895
+                           [19]: KB5016705
+                           [20]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Dual Band Wireless-AC 8265
+                                 Connection Name: Беспроводная сеть
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.43
+                                 [02]: fe80::258a:f22:4434:8145
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Сетевое подключение Bluetooth
+                                 Status:          Media disconnected
+                           [03]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (WSL)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.21.16.1
+                                 [02]: fe80::e57d:1b9e:b5d9:7ac5
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::1cc0:37dc:6acb:b86e
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

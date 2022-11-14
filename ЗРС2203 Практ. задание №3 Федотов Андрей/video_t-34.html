@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">  
+    <title>Видео с Т-34</title>
+    <link href="css/styles.css" rel="stylesheet">
+    <link rel="icon" href="icon.png" type="image/png">
+    <link href="http://localhost/test/css/style_1.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost/test/css/style_2.css" rel="stylesheet" type="text/css">
+    <script src="javascript/scripts.js"></script>
+    <style>
+        .background_2{
+            background-image: url("images/phon1.jpg");
+        }
+        .sidenav {
+            height: 100%;
+            width: 160px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(43, 38, 38);
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+        .sidenav a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+        }
+        .main {
+            margin-left: 160px;
+            padding: 0px 10px;
+        }
+    </style>
+</head>
+ 
+<body>
+    <aside class="sidenav">
+        <div class="sidenav">
+            <a href="#tank">Видео</a>
+        </div>
+    </aside>
+    <div class="main">
+    <h1 class="name">Видео с Т-34</h1>
+    <nav class="site_nav">
+        <a href="tank_sounds.html">Звуки танков</a>
+        <a href="soviet_tanks.html">Картинки танков</a>
+        <a href="index.html">Танки</a>
+    </nav>
+    <section id="tank">
+    <p>
+        <h2>Стрельбы и занятия по вождению танков Т-34 в Подмосковье</h2>
+        <video poster="images\t-34.png" controls>
+            <source src="video\Стрельбы и занятия по вождению танков Т-34 в Подмосковье.mp4">
+        </video>
+    </p>
+    </section>
+    <footer class="site_footer">
+                <p>
+                    Дата публикации: <time datetime="2022-10-10 19:00">10 октября</time>
+                </p>
+                <address>
+                    Автор: Федотов Андрей Владимирович
+                </address>
+            </footer>
+    </main>
+    </div>
+</body>
+</html>
